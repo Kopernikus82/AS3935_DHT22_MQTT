@@ -18,3 +18,5 @@ Detects a lightning and can measure the temperature and humidity and sends all t
 3. Have fun
 
 ![Lighting Sensor - Fritzing](https://github.com/Kopernikus82/AS3935_DHT22_MQTT/blob/main/Sensor_Fritzing.png)
+
+[![Donate with PayPal](https://github.com/Kopernikus82/smart_clock_round_display/blob/main/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=GL9EF8CMQNQMU)
